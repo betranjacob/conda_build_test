@@ -55,7 +55,6 @@ test:
     - python -m pytest
 
 about:
-  home: http://www.cirrus.com
   license: Proprietary
   summary: "PyVoiceID utilities Module"
   license_family: Proprietary
